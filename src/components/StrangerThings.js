@@ -7,12 +7,12 @@ const getRealityClass = (hereIsTheUpsideDownWorld) => (
 );
 
 const strangerThingsConfig = {
-  url: 'http://localhost:3002',
+  url: 'https://khkasper-up.herokuapp.com',
   timeout: 30000,
 };
 
 const upsideDownConfig = {
-  url: 'http://localhost:3003',
+  url: 'https://khkasper-dw.herokuapp.com',
   timeout: 30000,
 };
 
