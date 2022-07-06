@@ -1,9 +1,21 @@
-# Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!
+# Requisitos do projeto
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de frontend.
+## Obrigatórios
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+- [x] 1 - Verifica as variáveis de ambiente
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do frontend.
+- [x] 2 - Verifica se o arquivo Dockerfile está configurado da maneira correta
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-014-a-stranger-things) em que os requisitos do projeto são destrinchados.
+- [x] 3 - Verifica se o arquivo heroku.yml está configurado na maneira correta
+
+- [x] 4 - Verifica action de Linter para ser executada no GitHub
+
+- [x] 5 - Verifica o Deploy no Heroku
+
+- [x] 6 - Verifica as variáveis de ambiente do frontend
+
+- [x] 7 - Verifica se foi feito o deploy do frontend no Heroku
+
+## Bônus
+
+- [x] 8 - Verifica os multi-ambientes e modo de desenvolvimento
